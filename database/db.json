@@ -1,0 +1,25 @@
+{
+ "user" : [
+{
+ "id" : 1,
+ "name" : "samuel Abraham",
+ "email" : "abmercy035@gmail.com",
+"role" : "Admin",
+"status" : "Active"
+} , 
+{
+ "id" : 2,
+ "name" : "Jane Smith",
+ "email": "Jane02@gmail.com",
+"role" : "Admin",
+"status" : "Active"
+} , 
+{
+ "id" : 3,
+ "name" : "andrew James",
+ "email": "andrew03@gmail.com",
+"role" : "Admin",
+"status" : "Active"
+} 
+ ]
+}
